@@ -28,7 +28,7 @@ img{width: 100px; height: 100px}
 }
 
 .nav:hover{background-color: #ff0000; border: #ff0000 5px solid; border-radius: 5px}
-.dr{position: relative;}
+.dr{position: relative; width: 200px; left:646px; bottom:59.5px}
 .dr ul{position: absolute; left: -99999px; top: 39px}
 .dr a{margin: 0}
 .dr:hover ul{left:0}
