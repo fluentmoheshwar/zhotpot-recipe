@@ -1,6 +1,4 @@
-# Zhotpot Recipe
-
-## This is official site of Zhotpot Recipe
+![zhotpot-recipe](https://socialify.git.ci/fluentmoheshwar/zhotpot-recipe/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
 
 This site is under development.
 
