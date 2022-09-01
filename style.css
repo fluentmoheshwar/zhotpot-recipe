@@ -2,6 +2,10 @@
     font-family: Calibri, sans-serif, "Cascadia Code", monospace;
 }
 
+body{
+    padding: 5vw;
+}
+
 #bn{
     float: right;
 }
