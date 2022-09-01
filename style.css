@@ -5,3 +5,19 @@
 #bn{
     float: right;
 }
+
+.theme{
+    position:fixed;
+    bottom: 10px;
+    background: #46111a;
+    color: #FFFFFF;
+    border: 0;
+    cursor: pointer;
+    transition: 0.5s;
+    font-size: 16px;
+}
+
+.theme:hover{
+    background: #89ddff;
+    color: #000000;
+}
